@@ -5,7 +5,7 @@
 ___________________________________________________________________________________________________________________________________
 
 ***For Middle Man Attack ***
-_____________________________
+______________________________
 
 1- Click on "Enable Attack Mode" in the Start Screen.
 2- Then Choose random numbers and generate R1 and R2 for Alice and Bob respectively and do the same for middle man (attacker) by choosing random numbers and generating 
