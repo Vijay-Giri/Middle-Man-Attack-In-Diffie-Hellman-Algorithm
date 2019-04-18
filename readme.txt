@@ -1,6 +1,6 @@
 ************************************* Diffie Hellman Algorithm (With and Without) Middle Man Attack********************************************************************
 
----->>To run this application simply open it in netbeans and run it.<<----
+----->>To run this application simply open it in netbeans and run it.<<-----
 
 ___________________________________________________________________________________________________________________________________
 
